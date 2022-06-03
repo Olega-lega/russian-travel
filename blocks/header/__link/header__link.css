@@ -1,0 +1,14 @@
+.header__link {
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+@media screen and (width: 568px) {
+  .header__link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
