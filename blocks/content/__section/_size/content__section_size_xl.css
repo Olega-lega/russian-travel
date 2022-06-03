@@ -1,0 +1,23 @@
+.content__section_size_xl {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0 442px 0 148px;
+}
+
+@media screen and (width: 1140px) {
+  .content__section_size_xl {
+    padding: 0 286px 48px;
+  }
+}
+
+@media screen and (width: 984px) {
+  .content__section_size_xl {
+    padding: 0 24px;
+  }
+}
+
+@media screen and (width: 568px) {
+  .content__section_size_xl {
+    padding: 0 16px;
+  }
+}

@@ -1,0 +1,22 @@
+.lead__image {
+  box-sizing: border-box;
+  min-width: 984px;
+}
+
+@media screen and (width: 1140px) {
+  .lead__image {
+    min-width: 928px;
+  }
+}
+
+@media screen and (width: 984px) {
+  .lead__image {
+    min-width: 768px;
+  }
+}
+
+@media screen and (width: 568px) {
+  .lead__image {
+    min-width: 320px;
+  }
+}
