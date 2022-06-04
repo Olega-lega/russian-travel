@@ -1,22 +1,24 @@
 .lead__image {
   box-sizing: border-box;
-  min-width: 984px;
+  max-width: 984px;
 }
 
-@media screen and (width: 1140px) {
+@media screen and (max-width: 1140px) {
   .lead__image {
-    min-width: 928px;
+    max-width: 928px;
   }
 }
 
-@media screen and (width: 984px) {
+@media screen and (max-width: 984px) {
   .lead__image {
-    min-width: 768px;
+    
+    width: 100%;
   }
 }
 
-@media screen and (width: 568px) {
+@media screen and (max-width: 568px) {
   .lead__image {
-    min-width: 320px;
+   
+    width: 100%;
   }
 }

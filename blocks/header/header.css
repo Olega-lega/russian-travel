@@ -1,24 +1,4 @@
 .header {
-  max-width: 1184px;
-  max-height: 52px;
   display: flex;
   justify-content: space-between;
-}
-@media screen and (width: 1140px) {
-  .header {
-    max-width: 928px;
-  }
-}
-
-@media screen and (width: 984px) {
-  .header {
-    max-width: 720px;
-  }
-}
-
-@media screen and (width: 568px) {
-  .header {
-    max-width: 288px;
-    max-height: 42px;
-  }
 }
