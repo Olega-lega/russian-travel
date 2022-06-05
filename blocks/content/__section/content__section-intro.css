@@ -1,8 +1,7 @@
 .content__section-intro {
   box-sizing: border-box;
-  max-width: 690px;
   width: 100%;
-  min-height: 429;
+  max-width: 690px;
   padding-left: 148px;
 }
 
@@ -14,7 +13,7 @@
 
 @media screen and (max-width: 984px) {
   .content__section-intro  {
-    min-height: 429px;
+    min-width: 768px;
     padding-left: 24px;
     padding-right: 24px;
   }
@@ -22,7 +21,7 @@
 
 @media screen and (max-width: 568px) {
   .content__section-intro  {
-    min-height: 754px;
+    min-width: 320px;
     padding-left: 16px;
     padding-right: 16px;
   }

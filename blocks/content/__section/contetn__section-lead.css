@@ -1,8 +1,8 @@
 .content__sectio-lead {
   box-sizing: border-box;
+  width: 100%;
   min-height: 1005px;
   padding: 0 0 148px;
-  width: 100%;
 }
 
 @media screen and (max-width: 1140px) {
