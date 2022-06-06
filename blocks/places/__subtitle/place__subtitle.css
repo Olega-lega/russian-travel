@@ -1,0 +1,9 @@
+.place__subtitle {
+  max-width: 484px;
+}
+
+@media screen and (max-width: 568px) {
+  .place__subtitle {
+   margin-left: 16px;
+  }
+}

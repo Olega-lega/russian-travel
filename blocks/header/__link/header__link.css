@@ -6,6 +6,10 @@
   line-height: 28px;
 }
 
+.header__link:hover {
+  opacity: .8;
+}
+
 @media screen and (width: 568px) {
   .header__link {
     font-size: 18px;

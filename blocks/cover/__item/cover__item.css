@@ -1,5 +1,6 @@
 .cover__item {
   min-height: 740px;
+  max-width: 1184px;
   color: #fff;
   text-decoration: none;
   box-sizing: border-box;
@@ -15,6 +16,7 @@
   position: relative;
   transition: .5s;
   z-index: 1;
+  margin: 0 auto;
 }
 
 .cover__item::before {

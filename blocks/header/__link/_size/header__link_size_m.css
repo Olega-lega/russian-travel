@@ -9,6 +9,11 @@
   text-decoration: none;
 }
 
+.header__link_size_m:hover {
+  opacity: .8;
+}
+
+
 @media screen and (width: 568px) {
   .header__link_size_m {
     font-size: 18px;
