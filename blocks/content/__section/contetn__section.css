@@ -9,3 +9,9 @@
     padding: 0;
   }
 }
+
+@media screen and (max-width: 568px) {
+  .content__section {
+    max-width: 320px;
+}
+}

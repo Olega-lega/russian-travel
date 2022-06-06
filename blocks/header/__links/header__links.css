@@ -8,9 +8,3 @@
   column-gap: 18px;
   max-width: 77px;
 }
-
-@media screen and (width: 568px) {
-  .header__link {
-   max-width: 62px;
-  }
-}

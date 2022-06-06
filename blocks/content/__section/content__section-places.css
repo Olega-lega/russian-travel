@@ -7,7 +7,7 @@
 
 @media screen and (max-width: 1140px) {
     .content__section-places {
-        padding: 0 48px;
+      padding: 0 48px;
 }
 }
 
@@ -19,6 +19,7 @@
 
 @media screen and (max-width: 568px) {
     .content__section-places {
+      max-width: 320px;
       padding: 0;
 }
 }
