@@ -9,6 +9,7 @@
   .content__section-lead {
     min-height: 962px;
     padding: 0 48px;
+    max-width: 984px;
   }
 }
 
