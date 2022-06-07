@@ -1,16 +1,16 @@
-.content__section-footer {
+.page__content-footer {
   padding: 0 48px;
   width: 100%;
 }
 
 @media screen and (max-width: 984px) {
-  .content__section-footer {
+  .page__content-footer {
     padding: 0 24px;
 }
 }
 
 @media screen and (max-width: 568px) {
-  .content__section-footer {
+  .page__content-footer {
     padding: 0 16px;
 }
 }
