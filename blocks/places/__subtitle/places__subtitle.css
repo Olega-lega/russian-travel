@@ -1,9 +1,9 @@
-.place__subtitle {
+.places__subtitle {
   max-width: 484px;
 }
 
 @media screen and (max-width: 568px) {
-  .place__subtitle {
+  .places__subtitle {
    margin: 0 16px;
   }
 }

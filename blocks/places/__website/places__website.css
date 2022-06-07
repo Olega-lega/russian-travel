@@ -1,11 +1,11 @@
-.place__website {
+.places__website {
   max-width: 456px;
   grid-area: website;
   align-self: flex-end;
 }
 
 @media screen and (max-width: 568px) {
-  .place__website {
+  .places__website {
    margin-left: 16px;
   }
 }
