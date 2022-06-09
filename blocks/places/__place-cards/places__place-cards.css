@@ -1,0 +1,8 @@
+.places__place-cards {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  row-gap: 80px;
+  width: 100%;
+}

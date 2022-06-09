@@ -1,7 +1,6 @@
 .footer__author {
   max-width: 186px;
-  min-height: 16px;
-  font-family: 'Inter';
+  font-family: 'Inter', "Arial ", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
