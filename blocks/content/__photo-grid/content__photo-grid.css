@@ -1,16 +1,17 @@
-.page__content-footer {
-  padding: 0 48px;
+.content__photo-grid {
+  box-sizing: border-box;
   width: 100%;
+  padding: 0 48px;
 }
 
 @media screen and (max-width: 984px) {
-  .page__content-footer {
+  .content__photo-grid {
     padding: 0 24px;
-}
+  }
 }
 
 @media screen and (max-width: 568px) {
-  .page__content-footer {
+  .content__photo-grid {
     padding: 0 16px;
-}
+  }
 }

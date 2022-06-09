@@ -5,8 +5,10 @@
   font-size: 18px;
   line-height: 22px;
   color: #fff;
+  transition: opacity .3s ease-in;
 }
 
 .places__website-link:hover {
   opacity: 0.8;
+  transition: opacity .3s ease-in;
 }

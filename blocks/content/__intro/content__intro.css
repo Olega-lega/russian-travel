@@ -1,24 +1,24 @@
-.content__section-intro {
+.content__intro {
   box-sizing: border-box;
   width: 100%;
   padding: 0 442px 0 148px;
 }
 
 @media screen and (max-width: 1140px) {
-  .content__section-intro  {
+  .content__intro  {
     padding: 0 286px 0 48px;
   }
 }
 
 @media screen and (max-width: 984px) {
-  .content__section-intro  {
+  .content__intro  {
     padding-left: 24px;
     padding-right: 24px;
   }
 }
 
 @media screen and (max-width: 568px) {
-  .content__section-intro  {
+  .content__intro  {
     padding-left: 16px;
     padding-right: 16px;
   }
