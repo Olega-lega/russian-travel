@@ -2,6 +2,7 @@
   box-sizing: border-box;
   width: 100%;
   padding: 0 148px;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 1140px) {
@@ -18,6 +19,7 @@
 
 @media screen and (max-width: 568px) {
     .content__places {
+      margin: 0 auto 66px;
       max-width: 320px;
       padding: 0;
 }

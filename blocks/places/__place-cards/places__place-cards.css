@@ -6,3 +6,15 @@
   row-gap: 80px;
   width: 100%;
 }
+
+@media screen and (max-width: 984px) {
+  .palces__place-cards {
+    row-gap: 73px;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .palces__place-cards {
+    row-gap: 50px;
+  }
+}

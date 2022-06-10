@@ -8,14 +8,14 @@
   transition: opacity .3s ease-in;
 }
 
-.header__link:hover {
-  opacity: .8;
-  transition: opacity .3s ease-in;
-}
-
-@media screen and (width: 568px) {
+@media screen and (max-width: 568px) {
   .header__link {
     font-size: 18px;
     line-height: 20px;
   }
+}
+
+.header__link:hover {
+  opacity: .8;
+  transition: opacity .3s ease-in;
 }
