@@ -27,6 +27,6 @@
   .content {
     margin-top: 38px;
     margin-bottom: 64px;
-    grid-row-gap: 0;
+    grid-row-gap: 64px;
   }
 }
