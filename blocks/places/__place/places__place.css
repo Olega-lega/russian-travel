@@ -24,8 +24,8 @@
 
 @media screen and (max-width: 640px) {
   .places__place {
-    max-width: 568px;
-    grid-template-columns: min-content;
+    max-width: 640px;
+    grid-template-columns: 1fr;
     grid-auto-rows: min-content;
     row-gap: 32px;
     grid-template-areas:
